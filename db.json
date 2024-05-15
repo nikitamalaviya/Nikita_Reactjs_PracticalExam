@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "e15a",
+      "name": "watch",
+      "price": "1500",
+      "desc": "this is watch"
+    },
+    {
+      "id": "cc9f",
+      "name": "ring",
+      "price": "1200",
+      "desc": "this is ring"
+    },
+    {
+      "id": "65d1",
+      "name": "purse",
+      "price": "1250",
+      "desc": "this is purse"
+    }
+  ]
+}
